@@ -6,4 +6,8 @@
 This is your README.md file where you can write your reflection response for this programming project.
 
 Reflection
+Think of the ArrayList as a shared grocery list srored on the fridge (the Course object)
 
+Instead of everyone carrying their own separate paper list, multiple family members use the same location to add items. 
+
+Because they are all referencing that single list, the new additions is instantly visible to everyone who looks at the fridge
